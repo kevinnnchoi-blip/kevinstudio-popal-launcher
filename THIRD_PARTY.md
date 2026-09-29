@@ -14,3 +14,7 @@ copyright text, bundled graphics and branding are not included in this product.
 
 This is an independent community launcher, not an official Minecraft, Microsoft,
 Nintendo, Game Freak or The Pokémon Company product.
+
+- Pretendard Variable: SIL Open Font License 1.1; full license in ui/assets/fonts/Pretendard-LICENSE.txt.
+- Gmarket Sans Bold: Gmarket Sans license; full license in ui/assets/fonts/GmarketSans-LICENSE.txt.
+- Redesign preview temporarily uses the user's existing website-selected illustration. A fresh image-generation request returned moderation_blocked; no new illustration was produced.
