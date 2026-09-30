@@ -4,7 +4,7 @@
 
 ![케빈스튜디오 포팔 런처](launcher-preview.png)
 
-**[Windows 설치 파일 다운로드](https://github.com/kevinnnchoi-blip/kevinstudio-popal-launcher/releases/download/v1.1.0/KevinStudio-Popal-Setup-1.1.0.exe)** · [릴리스 안내](https://github.com/kevinnnchoi-blip/kevinstudio-popal-launcher/releases/tag/v1.1.0)
+**[Windows 설치 파일 다운로드](https://github.com/kevinnnchoi-blip/kevinstudio-popal-launcher/releases/download/v1.1.1/KevinStudio-Popal-Setup-1.1.1.exe)** · [릴리스 안내](https://github.com/kevinnnchoi-blip/kevinstudio-popal-launcher/releases/tag/v1.1.1)
 
 1. 설치 파일을 실행합니다. 바탕화면에 **케빈스튜디오 포팔 서버** 바로가기가 생깁니다.
 2. **공식 런처 열기**를 누릅니다. 공식 Minecraft 런처가 없으면 공식 다운로드 페이지가 열립니다. 설치 후 다시 눌러 주세요.
@@ -25,7 +25,7 @@
 
 공식 런처에 전용 설치 프로필과 버전 정보를 추가합니다. 기존 설치 프로필과 설정은 보존하고 프로필 파일을 `.minecraft/kevinstudio-backups`에 백업합니다. 원본 Modrinth 프로필은 수정하지 않습니다. 게임 데이터는 `%APPDATA%\kevinstudio-popal`에 별도로 저장하며 제거 후에도 남깁니다.
 
-## 1.1.0 검증 배포
+## 1.1.1 검증 배포
 
 웹사이트와 같은 노랑·파랑 디자인으로 바꾸고, 로그인은 공식 Minecraft 런처에서 처리하도록 변경했습니다. 이 버전은 DotsMine 인증 앱이나 해당 앱의 저장된 계정을 사용하지 않습니다. Microsoft 비밀번호나 공식 런처의 토큰을 읽지 않습니다.
 
@@ -35,4 +35,4 @@
 
 런처 제작: **케빈스튜디오**. 원본 게임·모드·리소스팩·셰이더의 권리는 각 제작자에게 있습니다. Minecraft 또는 Pokémon 공식 제품이 아닙니다.
 
-이 저장소는 참가자용 설치 파일 배포 저장소입니다. v1.0.0 사용자는 1.1.0으로 업데이트해 주세요.
+이 저장소는 참가자용 설치 파일 배포 저장소입니다. v1.0.0 사용자는 1.1.1으로 업데이트해 주세요.
