@@ -1,8 +1,8 @@
 # 케빈스튜디오 · 포팔서버 설치기
 
-**r48 · v1.3.0 · Windows 64비트**
+**r50 · v1.4.0 · Windows 64비트**
 
-**[최신 설치기 다운로드](https://github.com/kevinnnchoi-blip/kevinstudio-popal-launcher/releases/download/v1.3.0/KevinStudio-Popal-Setup-1.3.0.exe)** · [신청 내역](https://kevinstudio.shop/join)
+**[최신 설치기 다운로드](https://github.com/kevinnnchoi-blip/kevinstudio-popal-launcher/releases/download/v1.4.0/KevinStudio-Popal-Setup-1.4.0.exe)** · [신청 내역](https://kevinstudio.shop/join)
 
 ![포팔서버 런처](launcher-preview.png)
 
@@ -18,10 +18,10 @@
 
 ## 포함된 팩과 설정
 
-- Minecraft 1.21.1 / Fabric 0.19.5 / Cobblemon 1.8.1 / **r48 모드 100개**
-- 갱신된 Pokémon 한글팩 r27과 Sophisticated 한글팩 r32, r48 활성화 순서 포함
+- Minecraft 1.21.1 / Fabric 0.19.5 / Cobblemon 1.8.1 / **r50 모드 101개**
+- 갱신된 Pokémon 한글팩 r27과 Sophisticated 한글팩 r32, r50 활성화 순서 포함
 - 기존 ComplementaryReimagined r5.9.3 셰이더와 세부 설정
-- 첫 설치 기본값: **음악 끔, GUI 크기 3, 기존 키 설정 94개 유지**. 새 모드의 키 기본값만 추가됩니다.
+- 첫 설치 기본값: **음악 끔, GUI 크기 3, 기존 키 설정 99개 유지**. 기존 사용자의 개인 키 설정도 그대로 유지됩니다.
 - 업데이트 시 사용자가 바꾼 키·음량·GUI·셰이더 설정을 보존합니다. 서버용 리소스팩 선택은 새 구성으로 갱신하고 개인 추가 리소스팩은 유지합니다.
 
 ## 제거
@@ -33,3 +33,4 @@ Windows 설정의 설치된 앱 또는 제어판에서 **케빈스튜디오 포�
 설치기 SHA256은 같은 릴리스의 SHA256.txt에서 확인할 수 있습니다. 코드서명 인증서는 사용하지 않습니다.
 
 제작: **케빈스튜디오**. 게임·모드·리소스팩·셰이더의 권리는 각 제작자에게 있습니다. Minecraft·Pokémon 공식 제품이 아닙니다.
+
