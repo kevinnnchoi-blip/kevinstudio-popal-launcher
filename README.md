@@ -1,6 +1,6 @@
 # 케빈스튜디오 · 포팔서버 런처
 
-**20261005-r50 · v1.5.0 · Windows 64비트**
+**20261005-r50 · v1.5.1 · Windows 64비트**
 
 **[최신 설치기 다운로드](https://kevinstudio.shop/download/launcher)** · [포팔서버 안내](https://kevinstudio.shop/popal) · [신청 내역](https://kevinstudio.shop/popal/streamers)
 
